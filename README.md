@@ -65,10 +65,12 @@ pip install -r requirements.txt
     - Log Loss: 31.038 (very high, indicating poor probability calibration)
 
 
-![alt text](Accuracy90%.png)
-![alt text](CostFunction90%.png)
-![alt text](Accuracy50%.png)
-![alt text](CostFunction50%.png)
+![alt text](Accuracy90.png)
+![alt text](CostFunction90.png)
+
+
+![alt text](Accuracy50.png)
+![alt text](CostFunction50.png)
 
 
 Random Forest appears to be the best model overall. It has the highest accuracy (~86%) and the lowest log loss (0.352 for 90.0% class and 0.358 for 50.0% class) compared to other models. Lower log loss indicates that it is better calibrated in terms of predicted probabilities.
