@@ -66,11 +66,8 @@ pip install -r requirements.txt
 
 
 ![alt text](Accuracy90%.png)
-
 ![alt text](CostFunction90%.png)
-
 ![alt text](Accuracy50%.png)
-
 ![alt text](CostFunction50%.png)
 
 
