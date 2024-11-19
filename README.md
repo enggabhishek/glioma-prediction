@@ -70,10 +70,10 @@ pip install -r requirements.txt
     - AUC: Slightly higher at 0.8671, indicating a robust classification performance.
 
 
-![alt text](Accuracy90.png)
+![alt text](accuracy90.png)
 
 
-![alt text](Accuracy50.png)
+![alt text](accuracy50.png)
 
 
 Based on all the conditions (accuracy, confusion matrix, and AUC), Pegasos QSVC appears to have a slight edge over the other models:
